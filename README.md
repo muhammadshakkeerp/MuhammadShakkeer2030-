@@ -22,3 +22,17 @@ My personal repository.
 
 🌟 Check out my latest projects and contributions below. Happy coding! 😄
 
+syamkakarla98/README.md
+Hi there! 
+💫 About Me:
+🔭 I'm currently working as a "Data Engineer".
+🤝 I'm looking to collaborate on Machine Learning, Data Science, Satellite Imagery Analysis, and Architectural Designs.
+
+🌐 Socials:
+Instagram LinkedIn Medium
+
+💻 Tech Stack:
+C LaTeX Python R Google Cloud Apache Airflow MicrosoftSQLServer MySQL SQLite Adobe Lightroom Keras NumPy Pandas Plotly scikit-learn SciPy TensorFlow Docker
+
+📊 GitHub Stats:
+
