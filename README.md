@@ -1,38 +1,25 @@
-# MuhammadShakkeer2030-
-My personal repository.
-👋 Hello, I'm Muhammad Shakkeer!
+<h1 align="center">Hi 👋, I'm simple fight</h1>
+<h3 align="center">🔭 I'm a passionate web developer specializing in front-end development with React. My goal is to build elegant, intuitive, and efficient web applications that deliver exceptional user experiences.</h3>
 
-🌐 Full Stack Web Developer | React Enthusiast 🚀
+- 🔭 I’m currently working on [Lackbuy Furniture](https://bespoke-monstera-803dd5.netlify.app/)
 
-🔭 I'm a passionate web developer specializing in front-end development with React. My goal is to build elegant, intuitive, and efficient web applications that deliver exceptional user experiences.
+- 🌱 I’m currently learning **Redux, Jest**
 
-🛠️ Technologies & Tools:
-- Front-end: React, Redux, JavaScript (ES6+), HTML5, CSS3
-- Back-end: Node.js, Express.js, MongoDB
-- UI/UX: Tailwindcss
-- Version Control: Git, GitHub
-- Deployment: Heroku, Netlify
-- Testing: Jest, React Testing Library
+- 👨‍💻 All of my projects are available at [Mygithub.com](Mygithub.com)
 
-🌱 I'm constantly learning and exploring new technologies to stay up-to-date with the rapidly evolving web development landscape. I believe in the power of continuous improvement and never settling for mediocrity.
+- 📝 I regularly write articles on [bloglink.com](bloglink.com)
 
-💼 Currently, I'm open to exciting opportunities to work on innovative projects and collaborate with like-minded developers.
+- 💬 Ask me about **HTML3, CSS3, JS, React, TailwindCSS, TypeScript, Firebase , Redux, Jest**
 
-📫 Let's connect! Feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/muhammadshakkeer/) or [Email](Muhammadshakkeer3@gmail.com).
+- 📫 How to reach me **abc@gmail.com**
 
-🌟 Check out my latest projects and contributions below. Happy coding! 😄
+- 📄 Know about my experiences [resumelink.com](resumelink.com)
 
-syamkakarla98/README.md
-Hi there! 
-💫 About Me:
-🔭 I'm currently working as a "Data Engineer".
-🤝 I'm looking to collaborate on Machine Learning, Data Science, Satellite Imagery Analysis, and Architectural Designs.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mylinkedac.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mylinkedac.com" height="30" width="40" /></a>
+<a href="https://codesandbox.com/mycodesandac.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mycodesandac.co" height="30" width="40" /></a>
+</p>
 
-🌐 Socials:
-Instagram LinkedIn Medium
-
-💻 Tech Stack:
-C LaTeX Python R Google Cloud Apache Airflow MicrosoftSQLServer MySQL SQLite Adobe Lightroom Keras NumPy Pandas Plotly scikit-learn SciPy TensorFlow Docker
-
-📊 GitHub Stats:
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
