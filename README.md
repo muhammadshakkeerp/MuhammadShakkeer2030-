@@ -5,20 +5,18 @@
 
 - 🌱 I’m currently learning **Redux, Jest**
 
-- 👨‍💻 All of my projects are available at [Mygithub.com](Mygithub.com)
-
-- 📝 I regularly write articles on [bloglink.com](bloglink.com)
+- 👨‍💻 All of my projects are available at [Mygithub.com](https://github.com/MuhammadShakkeer2030)
 
 - 💬 Ask me about **HTML3, CSS3, JS, React, TailwindCSS, TypeScript, Firebase , Redux, Jest**
 
-- 📫 How to reach me **abc@gmail.com**
+- 📫 How to reach me **muhammadshakkeer3@gmail.com**
 
-- 📄 Know about my experiences [resumelink.com](resumelink.com)
+- 📄 Know about my experiences [resumelink.com](https://docs.google.com/document/d/1fOywxse4eHK7i5KQAi60XJnpeTKbfLm2wVbs2qfD8Rs/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mylinkedac.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mylinkedac.com" height="30" width="40" /></a>
-<a href="https://codesandbox.com/mycodesandac.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mycodesandac.co" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadshakkeer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mylinkedac.com" height="30" width="40" /></a>
+<!-- <a href="https://codesandbox.com/mycodesandac.co" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="mycodesandac.co" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
